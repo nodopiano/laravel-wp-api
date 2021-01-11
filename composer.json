@@ -1,5 +1,5 @@
 {
-    "name": "swancreative/laravel-wp-api",
+    "name": "nodopiano/laravel-wp-api",
     "description": "Laravel package for the Wordpress JSON REST API forked from threesquared",
     "keywords": ["laravel", "package", "wordpress", "API", "REST"],
     "license": "MIT",
